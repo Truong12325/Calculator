@@ -1,0 +1,50 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" 
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <LinearLayout
+    android:layout_width="match_parent" 
+    android:layout_height="wrap_content">
+		<TextView
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:gravity="center"
+	        android:textSize="25sp"
+	        android:text="Calculator - About"/>
+    </LinearLayout>
+    <LinearLayout
+	android:layout_width="match_parent" 
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp">
+	    <TextView 
+	        android:gravity="center"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:textSize="15sp"
+	        android:text="Design by: Nguyễn Văn Quân"/>
+    </LinearLayout>
+    <LinearLayout
+    android:layout_width="match_parent" 
+    android:layout_height="wrap_content">
+	    <TextView 
+	        android:gravity="center"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:textSize="15sp"
+	        android:text="Gnail: nguyenvanquan7826@gmail.com"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:gravity="center|bottom"
+        android:layout_marginTop="20dp">
+        <Button
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Back" />
+    </LinearLayout>
+
+</LinearLayout>
