@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android_Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calculator_about.xml",
+        "source": "E:\\AndroidStudioProjects\\Android_Calculator\\app\\src\\main\\res\\layout\\calculator_about.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android_Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calculator.xml",
+        "source": "E:\\AndroidStudioProjects\\Android_Calculator\\app\\src\\main\\res\\layout\\activity_calculator.xml"
+    }
+]
