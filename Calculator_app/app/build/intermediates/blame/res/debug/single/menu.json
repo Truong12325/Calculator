@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Calculator\\Calculator_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\calculator_about.xml",
+        "source": "E:\\Calculator\\Calculator_app\\app\\src\\main\\res\\menu\\calculator_about.xml"
+    },
+    {
+        "merged": "E:\\Calculator\\Calculator_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\calculator_help.xml",
+        "source": "E:\\Calculator\\Calculator_app\\app\\src\\main\\res\\menu\\calculator_help.xml"
+    },
+    {
+        "merged": "E:\\Calculator\\Calculator_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\about.xml",
+        "source": "E:\\Calculator\\Calculator_app\\app\\src\\main\\res\\menu\\about.xml"
+    },
+    {
+        "merged": "E:\\Calculator\\Calculator_app\\app\\build\\intermediates\\res\\merged\\debug\\menu\\calculator.xml",
+        "source": "E:\\Calculator\\Calculator_app\\app\\src\\main\\res\\menu\\calculator.xml"
+    }
+]
