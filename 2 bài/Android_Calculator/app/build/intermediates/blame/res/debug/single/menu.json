@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android_Calculator\\app\\build\\intermediates\\res\\merged\\debug\\menu\\calculator.xml",
+        "source": "E:\\AndroidStudioProjects\\Android_Calculator\\app\\src\\main\\res\\menu\\calculator.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android_Calculator\\app\\build\\intermediates\\res\\merged\\debug\\menu\\calculator_about.xml",
+        "source": "E:\\AndroidStudioProjects\\Android_Calculator\\app\\src\\main\\res\\menu\\calculator_about.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android_Calculator\\app\\build\\intermediates\\res\\merged\\debug\\menu\\about.xml",
+        "source": "E:\\AndroidStudioProjects\\Android_Calculator\\app\\src\\main\\res\\menu\\about.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android_Calculator\\app\\build\\intermediates\\res\\merged\\debug\\menu\\calculator_help.xml",
+        "source": "E:\\AndroidStudioProjects\\Android_Calculator\\app\\src\\main\\res\\menu\\calculator_help.xml"
+    }
+]
