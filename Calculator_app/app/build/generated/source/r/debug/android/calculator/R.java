@@ -18,26 +18,26 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int Button01=0x7f080039;
-        public static final int EditTextValue=0x7f080032;
-        public static final int LinearLayout01=0x7f08002d;
-        public static final int LinearLayout02=0x7f080030;
-        public static final int LinearLayout03=0x7f08003a;
-        public static final int LinearLayoutFrom=0x7f080033;
-        public static final int LinearLayoutTo=0x7f080036;
-        public static final int SpinnerFrom=0x7f080035;
-        public static final int SpinnerTo=0x7f080038;
-        public static final int SpinnerUnit=0x7f08002f;
-        public static final int TextView01=0x7f08002e;
-        public static final int TextView02=0x7f080031;
-        public static final int TextViewFrom=0x7f080034;
-        public static final int TextViewResult=0x7f08003c;
-        public static final int TextViewString=0x7f08003b;
-        public static final int TextViewTo=0x7f080037;
+        public static final int Button01=0x7f080038;
+        public static final int EditTextValue=0x7f080031;
+        public static final int LinearLayout01=0x7f08002c;
+        public static final int LinearLayout02=0x7f08002f;
+        public static final int LinearLayout03=0x7f080039;
+        public static final int LinearLayoutFrom=0x7f080032;
+        public static final int LinearLayoutTo=0x7f080035;
+        public static final int SpinnerFrom=0x7f080034;
+        public static final int SpinnerTo=0x7f080037;
+        public static final int SpinnerUnit=0x7f08002e;
+        public static final int TextView01=0x7f08002d;
+        public static final int TextView02=0x7f080030;
+        public static final int TextViewFrom=0x7f080033;
+        public static final int TextViewResult=0x7f08003b;
+        public static final int TextViewString=0x7f08003a;
+        public static final int TextViewTo=0x7f080036;
         public static final int UC=0x7f080001;
         public static final int action_settings=0x7f08003d;
         public static final int add=0x7f080029;
-        public static final int back=0x7f08002c;
+        public static final int back=0x7f08003c;
         public static final int banphim=0x7f080005;
         public static final int clear=0x7f08000d;
         public static final int close=0x7f080010;
@@ -83,14 +83,10 @@ public final class R {
     }
     public static final class layout {
         public static final int activity_calculator=0x7f030000;
-        public static final int calculator_about=0x7f030001;
-        public static final int main=0x7f030002;
+        public static final int main=0x7f030001;
     }
     public static final class menu {
-        public static final int about=0x7f070000;
-        public static final int calculator=0x7f070001;
-        public static final int calculator_about=0x7f070002;
-        public static final int calculator_help=0x7f070003;
+        public static final int calculator=0x7f070000;
     }
     public static final class string {
         public static final int action_settings=0x7f060000;

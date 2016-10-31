@@ -15,7 +15,7 @@
             android:id="@+id/UC"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:text="Unit Converter"
+            android:text="Đổi đơn vị"
             android:textSize="15sp" />
 
    </LinearLayout>
@@ -27,17 +27,19 @@
         android:layout_gravity="center_horizontal"
         android:layout_below="@+id/menu"
         android:orientation="vertical">
-    	<TextView
-	        android:id="@+id/screenMath"
-	       android:layout_width="match_parent"
-        	android:layout_height="50dp"
-	        android:layout_alignParentLeft="true"
-	        android:gravity="center|right"
-	        android:layout_gravity="center_horizontal"
-	        android:text=""
-	        android:textSize="20sp" >
-	   </TextView>
-	    <TextView
+
+		<TextView
+            android:id="@+id/screenMath"
+           android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:gravity="center|right"
+            android:layout_gravity="center_horizontal"
+            android:text=""
+            android:textSize="20sp" >
+       </TextView>
+
+		<TextView
 	        android:id="@+id/screenAns"
 	        android:layout_width="match_parent"
         	android:layout_height="50dp"
@@ -55,7 +57,7 @@
         android:layout_below="@+id/screen"
         android:orientation="vertical"
         android:layout_marginTop="5dp"
-		android:layout_weight="28.10">
+		android:layout_weight="15.50">
 
         <LinearLayout
             android:id="@+id/line1"
@@ -351,7 +353,7 @@
 		  		    android:layout_height="match_parent"
 		  		    android:text="="
 		  		    android:textSize="15sp"
-					android:background="@android:color/holo_blue_light" />
+					android:background="@android:color/holo_blue_dark" />
 			</LinearLayout>
         </LinearLayout>
 	</LinearLayout>

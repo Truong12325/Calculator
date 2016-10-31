@@ -16,10 +16,8 @@ import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.Toast;
 
-//this is for git testing
 
 public class UnitConverter extends Activity implements OnClickListener, AdapterView.OnItemSelectedListener{
-    /** Called when the activity is first created. */
 	
 	private Spinner SpinnerUnit;
 	private EditText inputValue;
@@ -35,14 +33,11 @@ public class UnitConverter extends Activity implements OnClickListener, AdapterV
     private String unitto;
     private static UnitConverter instance;
 
-    //this is to test the Git repository
 	@Override
     public void onCreate(Bundle savedInstanceState) {
         
         super.onCreate(savedInstanceState);
 
-     	//Som++ 
-        //to get the parameter passed from the URI that has launched this app
         final Intent intent = getIntent();
         String scheme = intent.getScheme();
         if(scheme != null){
